@@ -71,7 +71,7 @@ Valid? Yah, awalnya kita kira valid, tapi setelah mengetahui bahwa ternyata hany
 
 Mari kita kembali ke poin awal. 9 dari 10 orang. Apakah mungkin perusahaan pasta gigi tersebut hanya menggunakan 10 orang dokter gigi? Hal inilah yang membuat detail dibutuhkan dalam sebuah data statistik, namun detail yang diberikan haruslah valid dan sesuai.
 
-D.	Kesalahan yang “Dibesar-Besarkan”
+## D.	Kesalahan yang “Dibesar-Besarkan”
 Dua orang anak bernama Alamson dan Asep mengadakan sebuah tes IQ. Hasil tes IQ mereka menunjukkan bahwa IQ Alamson adalah 98 dan IQ Asep adalah 102. Dengan menggunakan asumsi bahwa IQ normal manusia adalah 100, terjadilah kehebohan diantara keluarga Alamson dan Asep. Keluarga Asep begitu bangga dengan putranya karena memiliki IQ diatas rata-rata, sedangkan keluarga Alamson dengan begitu sedih menerima fakta bahwa IQ anaknya dibawah rata-rata. Padahal?
 
 Terlepas bahwa IQ bukan segala-galanya, terdapat hal tertentu yang seharusnya tidak terjadi dan tidak “dibesar-besarkan”. Hal yang paling jelas disini adalah tidak adanya nilai galat yang diberikan untuk angka IQ 100.

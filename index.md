@@ -89,15 +89,15 @@ Statistik bukan hanya berupa angka-angka. Untuk mempermudah Analisa kita, terkad
 ## A.	Gambar yang Mengubahkan Persepsi
 Sebuah perusahaan hendak menyampaikan informasi terkait keuntungannya kepada sekelompok investor. Pada awalnya, mereka memberikan sebuah grafik yang memberikan informasi soal keuntungan mereka. Grafik ini kira-kira terlihat sebagai berikut :
 
-  
+<img src = "1.png"><br>
 
 Perusahaan ini memastikan bahwa seluruh hasil keuntungan mereka dilaporkan dengan jujur. Memang, terlihat ada peningkatan dari bulan ke bulan. Namun, apakah peningkatan seperti itu terlihat signifikan? Tidak kan. Untung saja, salah seorang editor presentasi mendapatkan ide untuk mengubah “sedikit” gambarnya. Tidak ada yang diubah dari data dan statistik, yang diubah hanya gambar grafiknya.
 
- 
+<img src = "2.png"><br>
  
 Grafik mulai terlihat “signifikan”. Tidak ada data yang diubah, tidak ada nilai yang diubah, semua hanya “memotong” bagian terbawah grafik dan memberikan sisa data sesuai dengan yang diinginkan. Namun, itu belum cukup. Perubahan kurang “dramatis”, fakta keuntungan kurang menjual. Perusahaan melakukan satu kali lagi “editing” grafik. Seperti apa editingnya?
 
- 
+ <img src = "3.png"><br>
  
 
 Wow! Keuntungan sangat tinggi dan sangat signifikan! Padahal tidak ada data yang diubah, tidak ada kecurangan. Hal yang perlu dilakukan adalah dengan cara mengubah sedikit bentuk grafik menjadi sesuatu yang lebih “wow”, lebih menanjak, lebih baik. Dengan strategi yang sama, grafik keuntungan dibuat sedemikian rupa seperti grafik yang pertama, sehingga orang berpikir bahwa “wah, perusahaan ini tidak menderita kerugian yang signifikan.”
@@ -110,8 +110,7 @@ Manusia jauh lebih mudah untuk memperhatikan gambar, dan bukan tulisan. Sehingga
 
 Sebagai contoh, akan diberikan fakta sebagai berikut. Pada tahun 1860, terdapat 8 juta sapi perah di seluruh amerika, dan pada tahun 1936, terdapat 25 juta. Fakta itu yang hendak disampaikan kepada pembaca. Untuk mempermudah, tentu saja akan digambar sebuah grafik sebagai berikut, dimana ukuran suatu sapi lebih besar daripada sapi yang lain, dimana gambar sapi tahun 1860 lebih besar daripada gambar sapi tahun 1936.
 
- 
- 
+<img src = "4.png"><br>
 
 Namun, hal seperti ini dapat menimbulkan dua persepsi yang berbeda. Yang pertama tentu saja, terdapat orang yang berpikir bahwa sapi-sapi pada tahun 1936 jauh lebih besar dari tahun 1860. Mungkin hal ini tidak masalah apabila di bawah grafik, diberikan fakta bahwa makna grafik menunjukkan bahwa besarnya sapi menunjukkan banyaknya sapi. Namun, ada satu masalah lain.
 

@@ -5,15 +5,16 @@
 <br>Institut Teknologi Bandung, Jl. Ganesha 10 Bandung 40132
 <br>13515045@std.stei.itb.ac.id
 
-# I.	 Pendahuluan : Kesalahan Statistik
+# I.	Pendahuluan : Kesalahan Statistik
 Statistik seharusnya membuat sesuatu lebih mudah dimengerti, namun apabila statistik digunakan dengan cara yang salah, hal ini dapat menyebabkan pembaca awam mempercayai hal yang lain, selain daripada apa yang telah ditunjukkan data. Sebuah penyalahgunaan statistik adalah suatu kondisi dimana sebuah penyalahgunaan argumen statistik memberikan keismpulan yang salah. 
 <br><br>Untuk beberapa kasus, penyalahgunaan statistik adalah sesuatu yang disengaja. Kesalahan statistik seperti ini juga memberikan keuntungan untuk orang yang dengan sengaja membuat statistik salah. Ketika suatu statistik salah atau diaplikasikan dengan salah, hal ini disebut dengan kesalahan statistik.
 <br><br>Kesalahan statistik adalah suatu masalah dalam ilmu pengetahuan. Sebagai contoh, dalam dunia medis, pembetulan sebuah statistik yang salah dapat memakan waktu bertahun-tahun dan banyak nyawa manusia.
 <br><br>Orang juga mudah untuk jatuh kedalam kesalahan statistik. Ilmuwan professional, matematikawan dan pengamat statistik professional dapat ditipu dengan sejumlah metode sederhana, bahkan ketika mereka menguji semuanya dengan hati-hati. Ilmuwan seringkali “menipu” diri mereka sendiri dengan statistik karena kurangnya pengetahuan tentang teori probabilitas dan kurangnya standardisasi tes ilmuwan.
 
-# II.	KESALAHAN ANALISIS DATA 
+# II.	Kesalahan Analisis Data
 Berikut ini akan dijelaskan kesalahan-kesalahan yang mungkin terjadi dalam analisis data. Terdapat empat jenis kesalahan, yaitu sampel yang bias, rata-rata yang terpilih, “Detail” yang seharusnya ada dan sampel yang terlalu kecil, serta kesalahan yang “dibesar-besarkan” 
-A.	Sampel yang Bias
+<br>
+## A.	Sampel yang Bias
 Anggap satu kali anda sedang berjalan-jalan, dan terdapat sebuah universitas dengan informasi yang dengan angkuhnya mengatakan hal berikut :
 
 “Lulusan Universitas X memiliki rata-rata gaji 120.346.182 per tahun”
@@ -25,7 +26,8 @@ Pertama, apakah kita yakin bahwa anggota Universitas X benar-benar memiliki angk
 Selanjutnya, kita yakin bahwa pengambilan seluruh data dilakukan dengan cara memberikan kuesioner kepada banyak orang. Sekarang, anggap lulusan Universitas X ada 1000 orang, dan dari 1000 orang itu, seluruhnya diisikan sebuah kuesioner. Dari 1000 orang itu, berapakah jumlah orang yang mengisi kuesioner dengan jujur? Atau, apabila kita hendak memikirkan yang lebih ekstrim, berapa jumlah orang yang mengisi kuesioner itu? Apakah mereka mengabaikan kuesioner itu karena takut bahwa rata-rata gaji mereka dibawah teman-temannya?
 
 Baiklah, secara ekstrim, anggaplah terdapat orang-orang yang mengisi. Nah, dari semua nilai yang mengisi, dilakukan perhitungan nilai rata-rata gaji orang-orang tersebut. Data yang didapatkan adalah data yang berisi informasi orang-orang yang bersedia memberikan nilai gaji mereka, sedangkan mereka yang bersedia memberikan nilai gaji mereka kebanyakan adalah orang yang berpenghasilan tinggi. Jadilah, nilai tersebut didapatkan. Tinggi? Iya. Valid? Siapa yang tahu?
-B.	Rata-Rata yang “Terpilih”
+
+## B.	Rata-Rata yang “Terpilih”
 Mari kita mengalihkan pandangan kita ke sebuah lowongan pekerjaan. Di lowongan itu, terdapat sebuah pernyataan yang begitu sensasional,
 
 “Rata-rata gaji di perusahaan ini adalah 5.700.000 rupiah”
@@ -36,7 +38,7 @@ Terdapat tiga jenis “rata-rata” yang bisa diambil dengan menggunakan data ya
 
 Untuk memperjelasnya, mari kita mengasumsikan bahwa perusahaan itu memiliki distribusi gaji sebagai berikut.
 
-Gaji		Jumlah Penerima
+Gaji		  Jumlah Penerima
 45000000	1
 15000000	1
 10000000	2
@@ -48,7 +50,8 @@ Gaji		Jumlah Penerima
 Apakah benar rata-rata gaji yang didapat adalah 5700000? Ya! Apabila kita hitung, nilai rata-rata gaji perusahaan tersebut memang benar adalah 5700000. Namun, apabila kita masuk ke perusahaan tersebut, berapa peluang bahwa gaji yang kita dapat berada di atas atau sama dengan rata-rata tersebut? Sangat kecil, hanya 5/25. 
 
 Perhatikan median data. Apabila diurutkan, median data adalah 3000000. Berarti, terdapat tepat 12 orang dengan gaji diatas 3000000 dan tepat 12 orang dengan gaji dibawah 3000000. Mulai dapat diperhatikan bukan, bahwa peluang kita mendapatkan gaji 5700000 sebenarnya sangat kecil? Hal ini semakin ditunjukkan dalam modus data, dimana terdapat 12 orang dengan gaji 2000000. Mendekati setengah kemungkinan. Berarti, apabila kita hendak masuk perusahaan itu, maka peluang terbesar dimana kita akan mendapatkan gaji adalah sekitar 2000000 (12/25), bandingkan dengan informasi yang mengatakan bahwa kita hendak mendapatkan 5700000 (5/25)!
-C.	“Detail” yang seharusnya ada dan Sampel yang Terlalu Kecil
+
+## C.	“Detail” yang seharusnya ada dan Sampel yang Terlalu Kecil
 Terdapat sebuah iklan yang mengatakan bahwa
 
 “Pasta Gigi X direkomendasikan oleh 9 dari 10 orang dokter gigi.”

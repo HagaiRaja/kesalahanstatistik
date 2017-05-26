@@ -81,9 +81,12 @@ Tes IQ (atau berbagai macam tes yang lain), hanya dilakukan sekali. Pertanyaanny
 Apabila ditelusuri lebih lanjut, ternyata berdasarkan teori Stanford-Binet, IQ manusia memiliki galat sejumlah 3. Berarti di tes IQ, seharusnya IQ Alamson berada di rentang 95 sampai 101, sedangkan IQ Asep berada di rentang 99 sampai 105. Dengan menggunakan galat ini, tentu saja terdapat kemungkinan bahwa IQ Alamson berada diatas rata-rata, atau berada di bawah Asep.
 
 Contoh klasik lain mengenai hal yang “dibesar-besarkan” adalah polemik Passing Grade di SBMPTN. Sebuah situs dengan begitu yakin mengatakan bahwa passing grade suatu jurusan terkenal di Indonesia adalah 65%. Sontak, semua orang panik, terdapat orang-orang yang menyerah, sedih, dan akhirnya memindahkan jurusan mereka. Faktanya? Berdasarkan informasi yang didapatkan dari beberapa bimbel, terdapat galat sebesar 5-10%. Berarti, anggaplah nilai kita adalah 55%, terdapat kemungkinan bahwa kita akan tembus jurusan itu. Sayang sekali, kebanyakan orang tidak mempedulikan hal itu, dan langsung memindahkan jurusan tanpa benar-benar mengerti apa arti dibalik sebuah statistik yang ada.
-III.	VISUALISASI DATA DAN BAGAIMANA MEREKA MENIPU
+
+
+# III.	VISUALISASI DATA DAN BAGAIMANA MEREKA MENIPU
 Statistik bukan hanya berupa angka-angka. Untuk mempermudah Analisa kita, terkadang digunakan grafik untuk membantu. Sayangnya, terkadang visualisasi data juga sering “menipu” kita. Terdapat tiga cara bagaimana visualisasi data menipu kita, yaitu dengan grafik dengan mengubahkan persepsi dan gambar yang mengubahkan persepsi. 
-A.	Gambar yang Mengubahkan Persepsi
+
+## A.	Gambar yang Mengubahkan Persepsi
 Sebuah perusahaan hendak menyampaikan informasi terkait keuntungannya kepada sekelompok investor. Pada awalnya, mereka memberikan sebuah grafik yang memberikan informasi soal keuntungan mereka. Grafik ini kira-kira terlihat sebagai berikut :
 
   
@@ -100,7 +103,9 @@ Grafik mulai terlihat “signifikan”. Tidak ada data yang diubah, tidak ada ni
 Wow! Keuntungan sangat tinggi dan sangat signifikan! Padahal tidak ada data yang diubah, tidak ada kecurangan. Hal yang perlu dilakukan adalah dengan cara mengubah sedikit bentuk grafik menjadi sesuatu yang lebih “wow”, lebih menanjak, lebih baik. Dengan strategi yang sama, grafik keuntungan dibuat sedemikian rupa seperti grafik yang pertama, sehingga orang berpikir bahwa “wah, perusahaan ini tidak menderita kerugian yang signifikan.”
 
 Sekarang, apa yang terjadi dengan kita apabila kita melihat sebuah grafik? Apakah langsung mengamati dengan “wow”? Ataukah kita tetap melihat data yang ada dibalik grafik tersebut? Bentuk grafik yang berbeda dapat mengubahkan persepsi kita tentang bagaimana sebuah data menjadi terlihat lebih baik daripada data yang lain, padahal sebenarnya tidak ada data yang lebih baik sama sekali!
-B.	Gambar yang Mengubahkan Persepsi
+
+
+## B.	Gambar yang Mengubahkan Persepsi
 Manusia jauh lebih mudah untuk memperhatikan gambar, dan bukan tulisan. Sehingga, didalam sebuah statistik, gambar terkadang dapat membuat suatu image bahwa seakan-akan, suatu yang sangat “besar” telah terjadi, padahal hal tersebut tidak terjadi sebesar itu. Selain itu, manusia dapat menginterpretasikan gambar itu dengan salah, sehingga makna asli dari gambar tersebut malah tidak tercapai.
 
 Sebagai contoh, akan diberikan fakta sebagai berikut. Pada tahun 1860, terdapat 8 juta sapi perah di seluruh amerika, dan pada tahun 1936, terdapat 25 juta. Fakta itu yang hendak disampaikan kepada pembaca. Untuk mempermudah, tentu saja akan digambar sebuah grafik sebagai berikut, dimana ukuran suatu sapi lebih besar daripada sapi yang lain, dimana gambar sapi tahun 1860 lebih besar daripada gambar sapi tahun 1936.
@@ -111,9 +116,11 @@ Sebagai contoh, akan diberikan fakta sebagai berikut. Pada tahun 1860, terdapat 
 Namun, hal seperti ini dapat menimbulkan dua persepsi yang berbeda. Yang pertama tentu saja, terdapat orang yang berpikir bahwa sapi-sapi pada tahun 1936 jauh lebih besar dari tahun 1860. Mungkin hal ini tidak masalah apabila di bawah grafik, diberikan fakta bahwa makna grafik menunjukkan bahwa besarnya sapi menunjukkan banyaknya sapi. Namun, ada satu masalah lain.
 
 Perhatikan bahwa ukuran sapi yang kedua kurang lebih sekitar 3 kali ukuran sapi yang pertama. Hal ini menunjukkan bahwa terdapat pertambahan sebanyak 3 x 3 x 3 (dihitung berdasarkan volume sapi). Dalam hal ini, mungkin fakta ini akurat, namun seringkali terdapat ketidakakuratan dikarenakan persepsi terhadap ukuran.
-IV.	PENARIKAN KESIMPULAN YANG SALAH
+
+# IV.	PENARIKAN KESIMPULAN YANG SALAH
 Kesimpulan yang baik adalah suatu hal yang hendak dicapai dalam setiap permasalahan statistik yang dipaparkan. Namun, seringkali terdapat kesalahan dalam penarikan kesimpulan, sehingga kesimpulang yang didapatkan tidak sesuai dengan apa yang diharapkan penulis, bahkan terkadang kesalahan itu “dimanfaatkan” oleh penulis statistik. Terdapat dua hal yang menyebabkan ini, yaitu pemaparan fakta yang hanya sebagian, serta kesalahan dari sang penarik kesimpulan.
-A.	Fakta yang Hanya “Sebagian”
+
+## A.	Fakta yang Hanya “Sebagian”
 Dalam sebuah data statistik, tidak semua fakta ditampilkan. Terkadang, seorang pemberi statistik hanya memberikan data-data yang bagus, atau data-data yang membuat produknya laku, sehingga kita tertipu dan malah tergoda untuk membeli produk itu. Sebuah perusahaan pembersih mulut memberikan sebuah fakta mengejutkan bahwa :
 
 “Produk Z dapat menghilangkan 99% kuman dalam waktu sebelas detik di laboratorium.” 
@@ -125,7 +132,8 @@ Fakta lain, dinas kepolisian mengeluarkan sebuah fakta mengejutkan bahwa :
 “Terdapat 4 kali kemungkinan sebuah kecelakaan terjadi pada jam 7 pagi daripada jam 7 malam.”
 
 Anggap fakta itu benar, tetapi? Tentu saja jelas bahwa lebih banyak terjadi kecelakaan pada malam hari daripada pagi hari karena lebih banyak orang yang ada di jalan pada pagi hari dibandingkan pada siang hari. Terdengar seram mendengarkan fakta itu, namun setelah kita memahami apa yang ada dibalik itu, kita sadar bahwa memang hanya sebagian fakta yang ditampilkan oleh penulis statistik.
-B.	Pengambilan Kesimpulan yang Salah
+
+## B.	Pengambilan Kesimpulan yang Salah
 Kesalahan ini dapat dijelaskan secara sederhana sebagai berikut : “Jika B mengikuti A, maka A menyebabkan B.” Ini adalah suatu cacat logika yang sering kali terjadi dalam dunia statistik.
 
 Terdapat sebuah petanyaan klasik sebagai berikut : “Apakah hubungan menjalani perkuliahan mempengaruhi pernikahan?” Jawaban yang diberikan adalah sebagai berikut. Apabila kamu adalah seorang wanita, jika kamu masuk universitas, kamu tidak akan menikah. Sedangkan, apabila kamu pria, kamu akan mendapatkan jodoh apabila kamu masu universitas. Hasil studi ini diberikan oleh Universitas Cornell, bahwa dari 1500 lulusan Cornell, 93% pria menikah, dan 65% wanita menikah.”
@@ -134,24 +142,24 @@ Tidak ada kesalahan pada statistiknya, tidak ada kesalahan pada data-data yang d
 
 Perbedaan persepsi inilah yang seharusnya dihindari oleh statistik. Statistik seharusnya memberikan angka-angka yang membuat pembaca memberikan kesimpulan yang kuat, bukan malah membuat bingung dan menimbulkan ambiguitas.
 
-V.	MENGHINDARI KESALAHAN STATISTIK
+# V.	MENGHINDARI KESALAHAN STATISTIK
 Terdapat beberapa langkah untuk menghindari kesalahan-kesalahan statistik yang mungkin saja terjadi. Baik itu karena kesalahan kita atau kesalahan penulis.
 
-A.	Siapa yang Berkata Seperti Itu?
+## A.	Siapa yang Berkata Seperti Itu?
 Perhatikanlah siapa yang berkata seperti itu. Apakah sebuah laboratorium dengan kredibilitas yang jelas dan siap mempertaruhkan kredibiltasnya demi sebuah teori? Atau laboratorium itu hanya mencari reputasi dan uang saja, sehingga menghalalkan segala cara untuk mendapatkan statistik? Sebuah koran yang menampilkan data statistik yang salah berulang kali mempertaruhkan manajemen, nama besar, dan orang-orang yang bekerja didalamnya.
 
-B.	Apa yang Dia Ketahui?
+## B.	Apa yang Dia Ketahui?
 Sebuah koran mengirimkan kuesioner ke 1200 perusahaan. Hanya 14% yang membalas. Sisanya, 86%, tidak mempedulikan kuesioner itu. Datapun ditampilkan. Hasilnya, 9% perusahaan menyatakan tidak menaikkan harga produk, 5% menaikkan harga, dan 86% tidak diketahui. Sampel bias ini terlalu besar, menunjukkan betapa sedikitnya yang diketahui oleh koran. Lantas, apakah pantas untuk ditampilkan dalam sebuah data statistik?
 
-C.	Apa yang Hilang?
+## C.	Apa yang Hilang?
 Terkadang, kita tidak diberi tahu berapa jumlah sampel yang dipakai. Tidak adanya jumlah sampel, apalagi ketika sumbernya tidak jelas, sudah cukup untuk mencurigai seluruh data statistik. Sama saja, ketika sebuah korelasi tanpa perhitungan error diberikan, jangan percayai data statistik itu.
 Perhatikan keseluruhan data “rata-rata”, jangan hanya melihat mean, tapi perhatikan juga modus dan median untuk mendapatkan data yang valid.
 
-D.	Apakah Seseorang Mengubah Subjeknya?
+## D.	Apakah Seseorang Mengubah Subjeknya?
 Ketika memperhatikan sebuah statistik, perhatikan perubahan antara data mentah dan kesimpulan. Terkadang, suatu data dilaporkan sebagai hal yang lain.
 Seperti yang tadi sudah disampaikan, semua laporan terjadinya penyakit tidak sama dengan jumlah orang yang terjangkit penyakit itu sendiri. Sebuah hasil quick count kandidat tidak selalu sama dengan hasil polling dari KPU yang asli.
 
-E.	Apakah Itu Masuk Akal?
+## E.	Apakah Itu Masuk Akal?
 “Apakah itu masuk akal” adalah ketika seluruh hasil statistik didasarkan pada sebuah asumsi yang belum terbukti. Sebagai contoh, dalam sebuah ujian SBMPTN, kita cukup yakin bahwa ITB tidak mungkin memiliki passing grade dibawah 55. Namun, terdapat sebuah lembaga survey yang memberikan angka yang berbeda, yaitu dibawah 55. Hal ini jelas tidak mungkin, jadi berita itu tidak usah dianggap ada karena tidak masuk akal.
 
 

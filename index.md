@@ -1,15 +1,16 @@
 ## Kesalahan Statistik
-<br>Hutama Tefotuho Hulu / 13515045
-<br>Program Studi Informatika
-<br>Sekolah Teknik Elektro dan Informatika
-<br>Institut Teknologi Bandung, Jl. Ganesha 10 Bandung 40132
-<br>13515045@std.stei.itb.ac.id
+
+Hutama Tefotuho Hulu / 13515045
+
 
 # I.	Pendahuluan : Kesalahan Statistik
 Statistik seharusnya membuat sesuatu lebih mudah dimengerti, namun apabila statistik digunakan dengan cara yang salah, hal ini dapat menyebabkan pembaca awam mempercayai hal yang lain, selain daripada apa yang telah ditunjukkan data. Sebuah penyalahgunaan statistik adalah suatu kondisi dimana sebuah penyalahgunaan argumen statistik memberikan keismpulan yang salah. 
-<br><br>Untuk beberapa kasus, penyalahgunaan statistik adalah sesuatu yang disengaja. Kesalahan statistik seperti ini juga memberikan keuntungan untuk orang yang dengan sengaja membuat statistik salah. Ketika suatu statistik salah atau diaplikasikan dengan salah, hal ini disebut dengan kesalahan statistik.
-<br><br>Kesalahan statistik adalah suatu masalah dalam ilmu pengetahuan. Sebagai contoh, dalam dunia medis, pembetulan sebuah statistik yang salah dapat memakan waktu bertahun-tahun dan banyak nyawa manusia.
-<br><br>Orang juga mudah untuk jatuh kedalam kesalahan statistik. Ilmuwan professional, matematikawan dan pengamat statistik professional dapat ditipu dengan sejumlah metode sederhana, bahkan ketika mereka menguji semuanya dengan hati-hati. Ilmuwan seringkali “menipu” diri mereka sendiri dengan statistik karena kurangnya pengetahuan tentang teori probabilitas dan kurangnya standardisasi tes ilmuwan.
+
+Untuk beberapa kasus, penyalahgunaan statistik adalah sesuatu yang disengaja. Kesalahan statistik seperti ini juga memberikan keuntungan untuk orang yang dengan sengaja membuat statistik salah. Ketika suatu statistik salah atau diaplikasikan dengan salah, hal ini disebut dengan kesalahan statistik.
+
+Kesalahan statistik adalah suatu masalah dalam ilmu pengetahuan. Sebagai contoh, dalam dunia medis, pembetulan sebuah statistik yang salah dapat memakan waktu bertahun-tahun dan banyak nyawa manusia.
+
+Orang juga mudah untuk jatuh kedalam kesalahan statistik. Ilmuwan professional, matematikawan dan pengamat statistik professional dapat ditipu dengan sejumlah metode sederhana, bahkan ketika mereka menguji semuanya dengan hati-hati. Ilmuwan seringkali “menipu” diri mereka sendiri dengan statistik karena kurangnya pengetahuan tentang teori probabilitas dan kurangnya standardisasi tes ilmuwan.
 
 # II.	Kesalahan Analisis Data
 Berikut ini akan dijelaskan kesalahan-kesalahan yang mungkin terjadi dalam analisis data. Terdapat empat jenis kesalahan, yaitu sampel yang bias, rata-rata yang terpilih, “Detail” yang seharusnya ada dan sampel yang terlalu kecil, serta kesalahan yang “dibesar-besarkan” 

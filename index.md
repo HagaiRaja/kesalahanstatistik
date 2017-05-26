@@ -14,7 +14,7 @@ Orang juga mudah untuk jatuh kedalam kesalahan statistik. Ilmuwan professional, 
 
 # II.	Kesalahan Analisis Data
 Berikut ini akan dijelaskan kesalahan-kesalahan yang mungkin terjadi dalam analisis data. Terdapat empat jenis kesalahan, yaitu sampel yang bias, rata-rata yang terpilih, “Detail” yang seharusnya ada dan sampel yang terlalu kecil, serta kesalahan yang “dibesar-besarkan” 
-<br>
+
 ## A.	Sampel yang Bias
 Anggap satu kali anda sedang berjalan-jalan, dan terdapat sebuah universitas dengan informasi yang dengan angkuhnya mengatakan hal berikut :
 
@@ -40,12 +40,19 @@ Terdapat tiga jenis “rata-rata” yang bisa diambil dengan menggunakan data ya
 Untuk memperjelasnya, mari kita mengasumsikan bahwa perusahaan itu memiliki distribusi gaji sebagai berikut.
 
 Gaji		  Jumlah Penerima
+
 45000000	1
+
 15000000	1
+
 10000000	2
+
 5700000		1
+
 5000000		3
+
 3700000		4
+
 2000000		12
 
 Apakah benar rata-rata gaji yang didapat adalah 5700000? Ya! Apabila kita hitung, nilai rata-rata gaji perusahaan tersebut memang benar adalah 5700000. Namun, apabila kita masuk ke perusahaan tersebut, berapa peluang bahwa gaji yang kita dapat berada di atas atau sama dengan rata-rata tersebut? Sangat kecil, hanya 5/25. 

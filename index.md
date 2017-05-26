@@ -40,13 +40,13 @@ Terdapat tiga jenis “rata-rata” yang bisa diambil dengan menggunakan data ya
 Untuk memperjelasnya, mari kita mengasumsikan bahwa perusahaan itu memiliki distribusi gaji sebagai berikut.
 
 Gaji		  Jumlah Penerima
-45000000	1
-15000000	1
-10000000	2
-5700000		1
-5000000		3
-3700000		4
-2000000		12
+<br>45000000	1
+<br>15000000	1
+<br>10000000	2
+<br>5700000		1
+<br>5000000		3
+<br>3700000		4
+<br>2000000		12
 
 Apakah benar rata-rata gaji yang didapat adalah 5700000? Ya! Apabila kita hitung, nilai rata-rata gaji perusahaan tersebut memang benar adalah 5700000. Namun, apabila kita masuk ke perusahaan tersebut, berapa peluang bahwa gaji yang kita dapat berada di atas atau sama dengan rata-rata tersebut? Sangat kecil, hanya 5/25. 
 

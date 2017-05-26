@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Kesalahan Statistik
+<br>Hutama Tefotuho Hulu / 13515045
+<br>Program Studi Informatika
+<br>Sekolah Teknik Elektro dan Informatika
+<br>Institut Teknologi Bandung, Jl. Ganesha 10 Bandung 40132
+<br>13515045@std.stei.itb.ac.id
 
-You can use the [editor on GitHub](https://github.com/tefohulu/kesalahanstatistik/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
